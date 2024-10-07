@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suckerne.github.io/sitemap.html.gz
+Sitemap: https://suckerne.github.io/app/sitemap.html.gz
+Sitemap: https://suckerne.github.io/assets/sitemap.html.gz
+Sitemap: https://suckerne.github.io/css/sitemap.html.gz
+Sitemap: https://suckerne.github.io/data/sitemap.html.gz
+Sitemap: https://suckerne.github.io/includes/sitemap.html.gz
+Sitemap: https://suckerne.github.io/item/sitemap.html.gz
+Sitemap: https://suckerne.github.io/src/sitemap.html.gz
